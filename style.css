@@ -260,27 +260,28 @@ body a:hover
     padding-bottom: 170px;
     min-height: calc(100vh - 170px);
     background-color: #221c5a; 
-    background-image:url(demo-images/background_img_01b.jpg); 
+    background-image:url(demo-images/pixel_night.gif); 
     background-repeat: repeat; 
     background-position: center top; 
     background-size: cover;
     z-index: 10;
 }
 
-.top-logo
+/*.top-logo
 {
     width: 160px !important;    
-    padding-top: 150px;
-}
+    padding-top: 350px;
+}*/
 
 h1.big-title
 {
     font-family: 'Montserrat', sans-serif;
-    font-size: 56px;
+    font-size: 70px;
     font-weight: 700;
     line-height: 100%;
-    padding-top: 100px;
-    color: #fff;
+    padding-top: 170px;
+    padding-left:110px;
+   
     letter-spacing: -1px;    
     width: 95%;
     margin-left: auto;

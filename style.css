@@ -1,3 +1,5 @@
+
+
 body
 {
     font-family: 'Roboto', sans-serif;
@@ -242,6 +244,13 @@ body a:hover
 .extra-content-full-width
 {
     padding: 100px 0;
+   
+}
+
+.extra-content-full-width-1
+{
+    padding: 100px 0;
+     color: #fff;
 }
 
 .section:last-of-type .extra-content-left, .section:last-of-type .extra-content-right, .section:last-of-type .extra-content-full-width
@@ -1206,6 +1215,7 @@ footer
     .content-1170 
     {
         width: 960px;
+        
     }
 
     .one_half
